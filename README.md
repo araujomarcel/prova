@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto tela de Login </h1>
+<h1 align="center"> Projeto - Tela de Login </h1>
 
 -DESCRIÇÃO
 * Este projeto consiste em uma área de login, com o usuário e senha fixos.
