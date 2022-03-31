@@ -19,5 +19,4 @@
 
 -AUTOR
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Marcel Araújo</sub>](https://github.com/araujomarcel) |  [<img  |
-| :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/89671847?v=4" width=115><br><sub>Marcel Araújo</sub>](https://github.com/araujomarcel)
