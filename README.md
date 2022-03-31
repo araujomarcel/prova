@@ -13,3 +13,6 @@
 -TECNOLIGIAS UTILIZADAS
 * PHP Estruturado
 * VS CODE
+* HTML
+* CSS
+* Bootstrap
