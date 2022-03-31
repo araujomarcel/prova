@@ -8,7 +8,7 @@
 * Apresenta os dados salvos no arquivo-texto.
 
 -STATUS DO PROJETO
-* projeto esta finalizado, porém, sujeito a melhorias
+* Projeto em fase de testes
 
 -TECNOLIGIAS UTILIZADAS
 * PHP Estruturado
